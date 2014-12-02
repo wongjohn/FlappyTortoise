@@ -24,8 +24,8 @@ FlappyTortoise
 
 注意
 =================
-代码忽略了cocos2d-x的代码库，你可以在<a href="http://cn.cocos2d-x.org/download">cocos2d-x官方</a>下载CPP版本的游戏引擎源代码。
-
+代码忽略了cocos2d-x的代码库，你可以在<a href="http://cn.cocos2d-x.org/download">cocos2d-x官方网站</a>下载CPP版本的游戏引擎源代码。
+至于怎样使用cocos2d-x从头开始创建一个游戏，请参考这篇<a href="https://github.com/chukong/cocos-docs/blob/master/manual/framework/native/wiki/how-to-start-a-new-cocos2d-x-game/zh.md">如何开始一个新的Cocos2d-x游戏</a>文章。
 
 版权声明
 =================
