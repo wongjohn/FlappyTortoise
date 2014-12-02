@@ -12,7 +12,7 @@ FlappyTortoise
 
 游戏截图
 =================
-素材均来自原版，版权归原作者所有，此仅供学习之用:)<br/>
+素材均来自网络，版权归原作者所有，此仅供学习之用:)<br/>
 <img src="FlappyTortoise1_StartMenu.png" width="480" height="320"/><br/>
 <img src="FlappyTortoise2_GameScene.png" width="480" height="320"/><br/>
 <img src="FlappyTortoise3_GameOver.png" width="480" height="320"/><br/>
